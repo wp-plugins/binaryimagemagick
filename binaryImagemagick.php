@@ -33,7 +33,7 @@
  * Description: Add a binary ImageMagick-Provider
  * Author: Andreas Heigl<andreas@heigl.org>
  * Author URI: https://github.com/heiglandreas/binaryImagemagick
- * Version: 1.0.0
+ * Version: 1.0.1
  * Text Domain: binaryImagemagick
  */
 require_once __DIR__ . '/Org_Heigl/BinaryImagemagick.php';

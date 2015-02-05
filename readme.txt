@@ -37,5 +37,7 @@ Go to https://github.com/heiglandreas/binaryImagemagick
 Please use the issuetracker at https://github.com/heiglandreas/binaryImagemagick/issues
 
 == Changelog ==
+= 1.0.1 =
+* FIxes an issue when using the Media Library Assistant-Plugin
 = 1.0.0 =
 * Initial Release
